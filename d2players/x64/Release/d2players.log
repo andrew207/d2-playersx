@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  d2players.cpp
+c:\users\andre\source\repos\d2players\d2players\d2players.cpp(74): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+  Generating code
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  d2players.vcxproj -> C:\Users\andre\source\repos\d2players\x64\Release\d2players.exe
