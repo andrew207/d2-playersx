@@ -5,6 +5,6 @@ App manifest forces running as admin, code includes upping of privilege to grant
 
 App simply checks the value in memory and prints it to the screen every second.
 
-![d2-playersx gif changer in action](https://media.giphy.com/media/1BcQ9XHhYrjKtfBSPI/giphy.gif)
+Here's a link to a video of it working: https://i.imgur.com/dN1m3o2.mp4. 
 
 This is just a PoC that probably should be implemented into D2Interface now that people are doing PlayersX speedruns. 
